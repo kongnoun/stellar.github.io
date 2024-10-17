@@ -54,6 +54,14 @@ footer p {
     color: var(--color-dark);
 }
 
+.navbar-toggle {
+    transition: all 0.6s ease;
+}
+
+.collapsable-navbar-toggle {
+    transition: all 0.6s ease;
+}
+
 .navbar-brand-text {
     font-weight: bold;
     background: -webkit-linear-gradient(var(--color-white), var(--color-light-blue));
